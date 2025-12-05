@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - Software engineering generalist, specializing in backend and [Elixir](https://elixir-lang.org/)
+  - Making ergonomic keyboards and other electronics over at [NTK Studio](https://ntkstudio.net/)
   - Until recently worked on the tech behind the [Ampersand Table](https://ampersandtable.com/)
 - Check out [rexbug](https://github.com/nietaki/rexbug), for all your Elixir interactive tracing needs!
 - Need to create a good looking resume easily? Give [markdown-resume](https://github.com/nietaki/markdown-resume) a shot!
